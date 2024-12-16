@@ -6,10 +6,19 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXFileReference section */
+		90F649DA2D10BAC400531E56 /* Nutrition Label.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Nutrition Label.txt"; sourceTree = "<group>"; };
+		90F649DB2D10BACB00531E56 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		90F649DC2D10BAE000531E56 /* styles.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		90F649D32D10BAA700531E56 = {
 			isa = PBXGroup;
 			children = (
+				90F649DC2D10BAE000531E56 /* styles.css */,
+				90F649DB2D10BACB00531E56 /* index.html */,
+				90F649DA2D10BAC400531E56 /* Nutrition Label.txt */,
 			);
 			sourceTree = "<group>";
 		};
